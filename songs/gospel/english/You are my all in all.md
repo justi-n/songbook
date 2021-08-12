@@ -29,5 +29,4 @@ Worthy is Your name
 Jesus, Lamb of God
 Worthy is Your name
 ```
-Offertory
-{: .label }
+tags: `Offertory`
