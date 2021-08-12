@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hindi
+title: English
 has_children: true
-parent: Gospel
+parent: Songs
 ---
