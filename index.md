@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Root
+title: Songs
 has_children: true
 ---
