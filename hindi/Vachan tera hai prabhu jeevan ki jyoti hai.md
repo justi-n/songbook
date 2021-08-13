@@ -16,4 +16,4 @@ parent: Hindi
 ```
 `Acclamation`
 
-## Vachan tera hai prabhu
+## Vachan tera hai prabhu jeevan ki jyoti hai
