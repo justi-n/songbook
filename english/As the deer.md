@@ -5,7 +5,7 @@ parent: English
 ---
 # As the deer
 ```
-As the deer Penteth for the water,
+As the deer panteth for the water,
 So my soul longeth after Thee.
 You alone are my heart's desire,
 And I long to worship you.
