@@ -32,3 +32,8 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: true
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: G-KC4RXKCFS2
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
