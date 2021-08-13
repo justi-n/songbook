@@ -18,7 +18,8 @@ Lord God, Heavenly King
 O God, Almighty Father
 
 Lord Jesus Christ, only Begotten Son
-Lord God, Lamb of God, Son of the Father You take away the sins of the world,
+Lord God, Lamb of God, Son of the Father
+You take away the sins of the world,
 have mercy on us
 You take away the sins of the world.
 receive our pray'r

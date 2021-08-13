@@ -14,7 +14,9 @@ The universe night and day
 Tells of all your wonders
 You are our life and our light
 We shall praise you always
-You are the path which we tread you will lead us onward
+You are the path which we tread
+you will lead us onward
+
 From every corner of the Earth
 All the nations gather
 You lead us all by the hand
