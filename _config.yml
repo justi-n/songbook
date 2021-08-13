@@ -1,6 +1,9 @@
 title: "Song Book"
 remote_theme: pmarsceill/just-the-docs
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
